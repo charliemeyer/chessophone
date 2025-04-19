@@ -116,6 +116,9 @@ function App() {
           </div>
         )}
       </div>
+      <span className="text-sm text-gray-500 w-80 mt-8">
+        ⚠️ On iPhone, turn silent mode off to hear the sound!
+      </span>
       <span className="text-sm text-gray-500 w-80 mt-4">
         Notes from the C major scale are added for each piece in each row of the
         board for each move in the game.<br></br>
@@ -125,7 +128,7 @@ function App() {
       <a
         href="https://buymeacoffee.com/chessophone"
         target="_blank"
-        className="place-self-start underline text-gray-500 text-sm mt-4"
+        className="place-self-start underline text-gray-500 text-sm mt-4 absolute bottom-4"
       >
         Buy me a coffee
       </a>
