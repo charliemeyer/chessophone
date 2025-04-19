@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
 import chess.pgn
 import io
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 scale = ["C", "D", "E", "F", "G", "A", "B", "C"]
 
 def play_board(b):
