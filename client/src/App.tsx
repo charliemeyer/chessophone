@@ -70,8 +70,8 @@ function App() {
   const [timeElapsed, setTimeElapsed] = useState(0);
 
   return (
-    <div className="p-4 flex flex-col items-center">
-      <h1 className="text-center text-2xl mb-2">chessophone</h1>
+    <div className="p-4 flex flex-col items-center w-40 mx-auto">
+      <h1 className="text-center text-2xl mb-2">Chessophone</h1>
       <div className="flex flex-col gap-2">
         <div>
           <h2 className="text-sm text-slate-500">PGN String</h2>
@@ -116,6 +116,19 @@ function App() {
           </div>
         )}
       </div>
+      <span className="text-sm text-gray-500 w-80 mt-4">
+        Notes from the C major scale are added for each piece in each row of the
+        board for each move in the game.<br></br>
+        <br></br> Find PGN strings in the sharing menu of the chess app of your
+        choice, Wikipedia, etc.
+      </span>
+      <a
+        href="https://buymeacoffee.com/chessophone"
+        target="_blank"
+        className="place-self-start underline text-gray-500 text-sm mt-4"
+      >
+        Buy me a coffee
+      </a>
     </div>
   );
 }
