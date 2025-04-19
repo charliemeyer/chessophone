@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.23"]
+[Round "?"]
+[White "spookywolf420"]
+[Black "popcorncolonel"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1013"]
+[BlackElo "1033"]
+[Termination "spookywolf420 won by checkmate"]
+[ECO "B06"]
+[EndTime "10:53:46 GMT+0000"]
+[Link "https://www.chess.com/game/live/99745326549?move=0"]
+
+1. d4 g6 2. e4 Bg7 3. d5 d6 4. Bb5+ Nd7 5. Nf3 a6 6. Bxd7+ Bxd7 7. O-O Bb5 8.
+Re1 Nf6 9. c3 O-O 10. Na3 Re8 11. Nd4 Bd7 12. Bg5 b5 13. Nc6 Bg4 14. Qd2 Qd7 15.
+Bxf6 Bxf6 16. Nc2 e6 17. N2d4 exd5 18. exd5 Bxd4 19. Qxd4 Re2 20. h3 Bxh3 21.
+Rxe2 Re8 22. Rxe8+ Qxe8 23. gxh3 f5 24. Kf1 g5 25. Re1 Qh5 26. Ne7+ Kf7 27. Kg2
+f4 28. f3 Qh4 29. Qf2 Qh6 30. Re6 Qf8 31. Nc6 Qa8 32. Qd4 Qg8 33. Qf6# 1-0
